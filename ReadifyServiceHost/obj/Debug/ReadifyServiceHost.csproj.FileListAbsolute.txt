@@ -1,0 +1,6 @@
+D:\MyData\Dropbox\MyProjects\ProjectLibraries.NET\Readify\ReadifyServiceHost\bin\ReadifyServiceHost.dll.config
+D:\MyData\Dropbox\MyProjects\ProjectLibraries.NET\Readify\ReadifyServiceHost\bin\ReadifyServiceHost.dll
+D:\MyData\Dropbox\MyProjects\ProjectLibraries.NET\Readify\ReadifyServiceHost\bin\ReadifyServiceHost.pdb
+D:\MyData\Dropbox\MyProjects\ProjectLibraries.NET\Readify\ReadifyServiceHost\obj\Debug\ReadifyServiceHost.dll
+D:\MyData\Dropbox\MyProjects\ProjectLibraries.NET\Readify\ReadifyServiceHost\obj\Debug\ReadifyServiceHost.pdb
+D:\MyData\Dropbox\MyProjects\ProjectLibraries.NET\Readify\ReadifyServiceHost\obj\Debug\ReadifyServiceHost.csprojResolveAssemblyReference.cache
